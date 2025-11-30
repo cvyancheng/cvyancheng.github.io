@@ -13,6 +13,6 @@
 [![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 -->
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+[![GitHub stars](https://img.shields.io/github/stars/cvyancheng/cvyancheng.github.io)](https://github.com/cvyancheng/cvyancheng.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/cvyancheng/cvyancheng.github.io)](https://github.com/cvyancheng/cvyancheng.github.io/fork)
 </div>
