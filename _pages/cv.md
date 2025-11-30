@@ -32,11 +32,17 @@ Research experience
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users -->
+
+Language
+======
+* Native: Mandarin
+* Intermediate: English (TOEIC 715)
   
 Skills
 ======
 * Programming
-  * Matlab, Python, HTML/CSS/JavaScript, SQL, Docker
+  * Intermediate: Matlab, Python
+  * Basic: HTML/CSS/JavaScript, SQL, Docker
 * Software Experience
   * Medical Image Processing Software, Mesh Editing Tools, Numerical Simulation Software, Microsoft Office
 * Expertise Areas
