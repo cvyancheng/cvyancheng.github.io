@@ -1,7 +1,7 @@
 # Yan Cheng's Website
 **A corner records something about Yan Cheng**
 
-![Personal website](images/themes/Personal website.png "Personal website")
+![Personal website](images/themes/Personal-website.png "Personal website")
 
 
 ---
