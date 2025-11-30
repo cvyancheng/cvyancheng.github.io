@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](files/Yan-Cheng's-Resume.pdf)
+[Resume PDF](files/Yan-Cheng's-Resume.pdf)
 
 Education
 ======
