@@ -23,7 +23,7 @@ repository               : "cvyancheng/cvyancheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/LIN_logo.png" #"profile.png"
+  avatar           : "LIN_logo.png" #"profile.png"
   name             : "Yan Cheng Lin (林彥成)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Biomedical Engineering with hands-on experience in medical imaging, mesh modeling, and AI-driven analysis. Dedicated to bridging engineering and medicine through computational methods. Committed to contributing to patient-specific analysis tools and interdisciplinary research at the interface of medicine and engineering."
