@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](files/Yan-Cheng's-Resume.pdf)
+
 Education
 ======
 * Ph.D in Biomedical Engineering, National Cheng Kung University, 2021-present
