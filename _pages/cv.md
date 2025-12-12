@@ -38,7 +38,7 @@ Research experience
 Language
 ======
 * Native: Mandarin
-* Intermediate: English (TOEIC 715)
+* Intermediate: English (TOEIC 770)
   
 Skills
 ======
